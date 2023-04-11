@@ -1,5 +1,5 @@
 # rego-charts
-Official Helm charts for Flagsmith, https://flagsmith.github.io/flagsmith-charts/
+Official Helm charts for rego, https://drorivry.github.io/rego/
 
 - [rego](./charts/rego/)
 
