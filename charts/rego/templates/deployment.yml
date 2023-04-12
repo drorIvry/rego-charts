@@ -27,7 +27,7 @@ spec:
         ports:
         - containerPort: 4004
         resources: {}
-      serviceAccount: rego-account
+      serviceAccount:  {{ include "rego.fullname" . }}-account
 
 ---
 
